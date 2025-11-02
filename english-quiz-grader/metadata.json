@@ -1,0 +1,5 @@
+{
+  "name": "English Quiz Grader",
+  "description": "An interactive web application that presents an English quiz for 6th graders based on provided materials, allows users to take the test, and automatically grades the results.",
+  "requestFramePermissions": []
+}
